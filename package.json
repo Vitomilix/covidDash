@@ -1,0 +1,25 @@
+{
+  "name": "coviddash",
+  "version": "1.0.0",
+  "description": "A Web Based Covid-19 Dashboard",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitomilix/covidDash.git"
+  },
+  "keywords": [
+    "Covid",
+    "covid-19",
+    "corona",
+    "coronavirus"
+  ],
+  "author": "Andreas Krueger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vitomilix/covidDash/issues"
+  },
+  "homepage": "https://github.com/Vitomilix/covidDash#readme"
+}
